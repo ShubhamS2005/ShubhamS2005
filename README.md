@@ -14,19 +14,19 @@ html,css,java,react,flask,django,ruby,git,github,docker,aws,mysql,postgres,nodej
 
 - [ChurnPrediction](https://github.com/ShubhamS2005/ChurnPrediction)
   - A project that predicts customer churn using various data science techniques.
-  - ⭐ 1 Star | 🐍 Python
+  - ⭐ 4 Star | 🐍 Python
 
 - [CreditCardFraudDetection](https://github.com/ShubhamS2005/CreditCardFraudDetection)
   - Detect fraud in credit card transactions using machine learning algorithms.
-  - ⭐ 2 Stars | 📓 Jupyter Notebook
+  - ⭐ 4 Stars | 📓 Jupyter Notebook
 
 - [Dog_Cat_Classifcation](https://github.com/ShubhamS2005/Dog_Cat_Classifcation)
   - A deep learning project achieving 89.9% accuracy in classifying images of dogs and cats.
-  - ⭐ 1 Star | 📓 Jupyter Notebook
+  - ⭐ 4 Star | 📓 Jupyter Notebook
 
 - [VillageCare](https://github.com/ShubhamS2005/VillageCare)
   - A web platform aimed at connecting rural communities with modern technology.
-  - ⭐ 1 Star | 🌐 JavaScript
+  - ⭐ 5 Star | 🌐 JavaScript
 
 - [Food_delivery](https://github.com/ShubhamS2005/Food_delivery)
   - A simple food delivery website designed using HTML and JavaScript.
