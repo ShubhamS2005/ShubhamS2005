@@ -1,63 +1,24 @@
-## Hi there! 👋
+# 💫 About Me:
+Results-driven AI/ML Researcher, Data Scientist, and Full-<br>Stack Developer (MERN) with expertise in Deep Learning,<br>Computer Vision, and DSA ( Java). Passionate about<br>leveraging AI for waste classification, deepfake detection,<br>real-time tracking, and Indian Sign Language (ISL)<br>translation. Proven ability to deliver scalable, high-impact<br>solutions, with a track record of winning hackathons and<br>developing AI-powered applications.
 
-I'm Shubham, a passionate developer dedicated to building innovative solutions. Whether it's through machine learning, web development, or data analysis, I'm always eager to learn and create impactful projects.
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shubhams__03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shubham-srivastava-67275126a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamsrivastava12568@gmail.com) 
 
-I'm a software developer with a focus on machine learning and web development. Currently, I am diving deeper into data science and its applications in real-world scenarios. I'm based in India and love working on projects that challenge my skills and broaden my knowledge.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShubhamS2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShubhamS2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamS2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills & Technologies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShubhamS2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-html,css,java,react,flask,django,ruby,git,github,docker,aws,mysql,postgres,nodejs,express,bootstrap,tailwind,flutter
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShubhamS2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Top Projects
+---
+[![](https://visitcount.itsvg.in/api?id=ShubhamS2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- [ChurnPrediction](https://github.com/ShubhamS2005/ChurnPrediction)
-  - A project that predicts customer churn using various data science techniques.
-  - ⭐ 4 Star | 🐍 Python
-
-- [CreditCardFraudDetection](https://github.com/ShubhamS2005/CreditCardFraudDetection)
-  - Detect fraud in credit card transactions using machine learning algorithms.
-  - ⭐ 4 Stars | 📓 Jupyter Notebook
-
-- [Dog_Cat_Classifcation](https://github.com/ShubhamS2005/Dog_Cat_Classifcation)
-  - A deep learning project achieving 89.9% accuracy in classifying images of dogs and cats.
-  - ⭐ 4 Star | 📓 Jupyter Notebook
-
-- [VillageCare](https://github.com/ShubhamS2005/VillageCare)
-  - A web platform aimed at connecting rural communities with modern technology.
-  - ⭐ 5 Star | 🌐 JavaScript
-
-- [Food_delivery](https://github.com/ShubhamS2005/Food_delivery)
-  - A simple food delivery website designed using HTML and JavaScript.
-  - ⭐ 2 Stars | 🌐 HTML
-
-## GitHub Stats
-
-### 📈 GitHub Stats
-
-- **Public Repositories:** 14
-- **Followers:** 2
-- **Following:** 2
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamS2005&show_icons=true&theme=radical)
-
-## Recent Activity
-
-### 📝 Recent Activity
-
-- **Pushed to [ChurnPrediction](https://github.com/ShubhamS2005/ChurnPrediction)** - Updated model performance (January 9, 2025)
-- **Created [CreditCardFraudDetection](https://github.com/ShubhamS2005/CreditCardFraudDetection)** - Initial commit (January 8, 2025)
-- **Pushed to [Dog_Cat_Classifcation](https://github.com/ShubhamS2005/Dog_Cat_Classifcation)** - Minor updates (January 2, 2025)
-- **Created [VillageCare](https://github.com/ShubhamS2005/VillageCare)** - Initial commit (October 27, 2024)
-- **Pushed to [Food_delivery](https://github.com/ShubhamS2005/Food_delivery)** - Added new features (December 29, 2023)
-
-## Latest Blog Posts
-
-### 📝 Latest Blog Posts
-
-- *Coming Soon!* Stay tuned for my upcoming articles on technology, coding, and web development.
-
-## Connect with Me
-
-{}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
