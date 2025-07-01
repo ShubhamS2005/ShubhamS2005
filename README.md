@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven AI/ML Researcher, Data Scientist, and Full-<br>Stack Developer (MERN) with expertise in Deep Learning,<br>Computer Vision, and DSA ( Java). Passionate about<br>leveraging AI for waste classification, deepfake detection,<br>real-time tracking, and Indian Sign Language (ISL)<br>translation. Proven ability to deliver scalable, high-impact<br>solutions, with a track record of winning hackathons and<br>developing AI-powered applications.
+Results-driven AI/ML Researcher, Data Scientist, and Full-Stack Developer (MERN) with expertise in Deep Learning,Computer Vision, and DSA ( Java). Passionate about leveraging AI for waste classification, deepfake detection,real-time tracking, and Indian Sign Language (ISL)translation. Proven ability to deliver scalable, high-impact solutions, with a track record of winning hackathons and developing AI-powered applications.
 
 
 ## 🌐 Socials:
