@@ -1,6 +1,8 @@
 # 💫 About Me:
 Results-driven AI/ML Researcher, Data Scientist, and Full-Stack Developer (MERN) with expertise in Deep Learning,Computer Vision, and DSA ( Java). Passionate about leveraging AI for waste classification, deepfake detection,real-time tracking, and Indian Sign Language (ISL)translation. Proven ability to deliver scalable, high-impact solutions, with a track record of winning hackathons and developing AI-powered applications.
 
+Do checkout my portfolio 
+https://my-portfolio-beta-seven-35.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shubhams__03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shubham-srivastava-67275126a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamsrivastava12568@gmail.com) 
