@@ -107,8 +107,6 @@ AI/ML Researcher • Data Scientist • Full Stack Developer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamS2005&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamS2005&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamS2005&theme=tokyonight)
 
 ---
 
