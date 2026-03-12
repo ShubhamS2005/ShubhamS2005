@@ -107,23 +107,11 @@ AI/ML Researcher • Data Scientist • Full Stack Developer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamS2005&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamS2005&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamS2005&theme=tokyonight)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamS2005&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamS2005&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamS2005&theme=radical&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
