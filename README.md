@@ -130,13 +130,6 @@ AI/ML Researcher • Data Scientist • Full Stack Developer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamS2005&theme=tokyo-night"/>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/ShubhamS2005/ShubhamS2005/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 # 👀 Profile Views
 
@@ -149,5 +142,11 @@ AI/ML Researcher • Data Scientist • Full Stack Developer
 I love building **AI systems that solve real world problems** — combining **Deep Learning + Full Stack + Real-time systems**.
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://github.com/ShubhamS2005/ShubhamS2005/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
 ⭐ From [ShubhamS2005](https://github.com/ShubhamS2005)
